@@ -2,6 +2,9 @@
 
 This project is a **LinkedIn Post Generator** application that uses an LLM to generate posts based on a selected LinkedIn creator’s style, specific topic, and post length. This app is built using **Streamlit** and allows users to generate LinkedIn posts that align with the style of popular content creators.
 
+*Here is a screenshot of the LinkedIn Post Generator app.*
+
+![LinkedIn Post Generator Preview](genai-post.png)
 
 
 ## 🚀 Features
@@ -46,6 +49,4 @@ This project is a **LinkedIn Post Generator** application that uses an LLM to ge
 - **fewshot.py**: Handles loading and filtering posts based on selected tags and length.
 - **postgenerate.py**: Module for generating post content based on input.
 - **Data/**: Folder containing processed JSON files for each creator.
-
-
 
